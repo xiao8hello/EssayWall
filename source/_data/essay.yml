@@ -1,0 +1,11 @@
+- title: 即刻-朋友圈
+  subTitle: Daily life
+  tips: 随时随地，分享生活
+  buttonText: 即刻
+  buttonLink: /essay
+  limit: 30
+  home_essay: true
+  top_background: https://www.bing.com/th?id=OHR.CoastalWales_ROW9438791203_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+  essay_list:
+    - content: 你可以在这个区域自由发挥！写下你的想法，分享你的故事，或者记录你的生活。
+      date: 2025/01/13
