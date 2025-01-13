@@ -102,5 +102,5 @@ theme: hexo-theme-anzhiyu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'git@github.com:xiao8hello/EssayWall.git'
+  repo: 'https://github.com/xiao8hello/EssayWall.git'
   branch: 'gh-pages'
